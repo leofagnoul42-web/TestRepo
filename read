@@ -1,1 +1,5 @@
 the first text
+# Exemple : déplacer tous les fichiers du dossier2 vers dossier1
+mv dossier2/* dossier1/
+# Si tu veux supprimer le dossier vide après
+rmdir dossier2
